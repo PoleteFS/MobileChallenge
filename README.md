@@ -1,6 +1,6 @@
 # MobileChallenge
 
-- La arquitectura usada para la prueba es MVVM
+- La arquitectura usada para la prueba es MVVM.
 
 - El botón de la pantalla principal situado a la parte inferior es para verificar que mientras llegan los datos, la interfície no de bloqueo, mostrando así un 
 texto por la consola.
