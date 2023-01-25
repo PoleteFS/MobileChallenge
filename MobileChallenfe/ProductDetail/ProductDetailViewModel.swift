@@ -29,7 +29,7 @@ class ProductDetailViewModel {
             }
         }
         let twoDecimalsFormat = CurrencyUtils.twoDecimalsRoundedDouble(num: totalAmount)
-        return CurrencyUtils.currencyFormat(num: twoDecimalsFormat) + "EUR"
+        return CurrencyUtils.currencyFormat(num: twoDecimalsFormat) + " EUR"
     }
     
     //MARK: GET SPECIFIED RATE TO EUR CONVERSION
